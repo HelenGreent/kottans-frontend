@@ -24,4 +24,4 @@ First of all, I wanna thank the organizers and developers for the opportunity to
 </details>
 
 ![My kottans](images/Sebek.jpeg)
-**My kottans**
+**My disobedient kottans**
