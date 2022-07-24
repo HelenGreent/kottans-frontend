@@ -5,20 +5,24 @@
 I'm Olena. I’m excited to join the kottans community.
 First of all, I wanna thank the organizers and developers for the opportunity to take this course. I hope I'll be able to complete all the tasks and continue my studies at the next levels.
 
-![My kottans](./images/Sebek.jpeg)
+![My kottans](./images/Sebek.jpeg) <br>
 **My disobedient kottans**
 
 ## 0.GIT
 
 <details><summary>Screenshot</summary>
 <p>
+
 ![Introduction Sequence](./task_git/git1.png)
+
 </p>
 </details>
 
 <details><summary>Screenshot</summary>
 <p>
+
 ![Push&Pull](./task_git/git2.png)
+
 </p>
 </details>
 
@@ -28,25 +32,33 @@ Discovered a lot of new options in Linux CLI.
 
 <details><summary>Screenshot</summary>
 <p>
+
 ![quiz_1](./task_linux_cli/linux_survival_1.png)
+
 </p>
 </details>
 
 <details><summary>Screenshot</summary>
 <p>
+
 ![quiz_2](./task_linux_cli/linux_survival_2.png)
+
 </p>
 </details>
 
 <details><summary>Screenshot</summary>
 <p>
+
 ![quiz_3](./task_linux_cli/linux_survival_3.png)
+
 </p>
 </details>
 
 <details><summary>Screenshot</summary>
 <p>
+
 ![quiz_4](./task_linux_cli/linux_survival_4.png)
+
 </p>
 </details>
 
@@ -54,13 +66,17 @@ Discovered a lot of new options in Linux CLI.
 
 <details><summary>Screenshot</summary>
 <p>
+
 ![git_1](./task_git_collaboration/git3.png)
+
 </p>
 </details>
 
 <details><summary>Screenshot</summary>
 <p>
+
 ![git_2](./task_git_collaboration/git4.png)
+
 </p>
 </details>
 
