@@ -96,4 +96,52 @@ Discovered a lot of new options in Linux CLI.
 
 ## 3.Intro to HTML and CSS
 
+<details><summary>Screenshot</summary>
+<p>
+
+![udacity_1](./task_html_css_intro/udacity.jpeg)
+
+</p>
+</details>
+
+<details><summary>Screenshot</summary>
+<p>
+
+![code_academy-1](./task_html_css_intro/html.jpeg)
+
+</p>
+</details>
+
+<details><summary>Screenshot</summary>
+<p>
+
+![code_academy-2](./task_html_css_intro/css.jpeg)
+
+</p>
+</details>
+
 ## 4.Responsive Web Design
+
+<details><summary>Screenshot</summary>
+<p>
+
+![udacity-2](./task_responsive_web_design/udacityy.jpeg)
+
+</p>
+</details>
+
+<details><summary>Screenshot</summary>
+<p>
+
+![flexbox-froggy](./task_responsive_web_design/flexbox-froggy.png)
+
+</p>
+</details>
+
+<details><summary>Screenshot</summary>
+<p>
+
+![grid-garden](./task_responsive_web_design/grid-garden.png)
+
+</p>
+</details>
