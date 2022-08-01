@@ -145,3 +145,9 @@ Discovered a lot of new options in Linux CLI.
 
 </p>
 </details>
+
+## 5. HTML & CSS Practice
+
+[Demo Url](https://helengreent.github.io/kottans_task_html_css_popup/)
+
+[Codebase](https://github.com/HelenGreent/kottans_task_html_css_popup.git)
