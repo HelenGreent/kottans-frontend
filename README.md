@@ -201,3 +201,13 @@ Discovered a lot of new options in Linux CLI.
 
 </p>
 </details>
+
+## 7. DOM
+
+<details><summary>Screenshot-6</summary>
+<p>
+
+![js-18](./task_js_dom/till18test.png)
+
+</p>
+</details>
