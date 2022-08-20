@@ -148,9 +148,9 @@ Discovered a lot of new options in Linux CLI.
 
 ## 5. HTML & CSS Practice
 
-[Demo Url](https://helengreent.github.io/kottans_task_html_css_popup/)
+[Demo Url](https://helengreent.github.io/kottans-html-css-popup/)
 
-[Codebase](https://github.com/HelenGreent/kottans_task_html_css_popup.git)
+[Codebase](https://github.com/HelenGreent/kottans_task_html_css_popup)
 
 ## 6. JS Basics
 
@@ -202,6 +202,10 @@ Discovered a lot of new options in Linux CLI.
 </p>
 </details>
 
+[Demo Url](https://helengreent.github.io/kottans-html-css-popup/)
+
+[Codebase](https://github.com/HelenGreent/kottans_task_html_css_popup)
+
 ## 7. DOM
 
 <details><summary>Screenshot-6</summary>
@@ -211,3 +215,16 @@ Discovered a lot of new options in Linux CLI.
 
 </p>
 </details>
+
+[Demo Url](https://helengreent.github.io/kottans-js-dom/)
+
+[Codebase](https://github.com/HelenGreent/kottans-js-dom)
+
+
+## 8. Building a Tiny JS World
+
+[Demo Url](https://helengreent.github.io/a-tiny-JS-world/)
+
+[Codebase](https://github.com/HelenGreent/a-tiny-JS-world)
+
+## 9. Object Oriented JS
