@@ -5,7 +5,7 @@
 I'm Olena. I’m excited to join the kottans community.
 First of all, I wanna thank the organizers and developers for the opportunity to take this course. I hope I'll be able to complete all the tasks and continue my studies at the next levels.
 
-![My kottans](./images/Sebek.jpeg) <br>
+![My kottans](./images/Sebek.jpeg){:height="230px"} <br>
 **My disobedient kottans**
 
 ## 0.GIT
@@ -243,3 +243,9 @@ Discovered a lot of new options in Linux CLI.
 [Codebase](https://github.com/HelenGreent/a-tiny-JS-world)
 
 ## 11. Memory Pair Game
+
+[Demo Url](https://helengreent.github.io/memory-pair-game/)
+
+[Codebase](https://github.com/HelenGreent/memory-pair-game)
+
+## 12. Friends App
